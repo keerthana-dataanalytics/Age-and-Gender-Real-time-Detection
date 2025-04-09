@@ -75,7 +75,7 @@
 <img src="female_25_3.jpg" alt="Female 25-32 years detection">
 
 <p>Male, 38-43 years:</p>
-<img src="demo_images/male_38_43.jpg" alt="Male 38-43 years detection">
+<img src="demo_images/Screenshot 2025-04-09 121431.png" alt="Male 38-43 years detection">
 
     >python detect.py --image girl1.jpg
     Gender: Female
